@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Node-Internship-Exercise/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-Node-Internship-Exercise/static/js/main.a62dc4d0.chunk.js",
+    "main.js.map": "/React-Node-Internship-Exercise/static/js/main.a62dc4d0.chunk.js.map",
+    "runtime-main.js": "/React-Node-Internship-Exercise/static/js/runtime-main.0b681f44.js",
+    "runtime-main.js.map": "/React-Node-Internship-Exercise/static/js/runtime-main.0b681f44.js.map",
+    "static/css/2.150d169a.chunk.css": "/React-Node-Internship-Exercise/static/css/2.150d169a.chunk.css",
+    "static/js/2.07cf15ac.chunk.js": "/React-Node-Internship-Exercise/static/js/2.07cf15ac.chunk.js",
+    "static/js/2.07cf15ac.chunk.js.map": "/React-Node-Internship-Exercise/static/js/2.07cf15ac.chunk.js.map",
+    "static/js/3.8e35ba90.chunk.js": "/React-Node-Internship-Exercise/static/js/3.8e35ba90.chunk.js",
+    "static/js/3.8e35ba90.chunk.js.map": "/React-Node-Internship-Exercise/static/js/3.8e35ba90.chunk.js.map",
+    "index.html": "/React-Node-Internship-Exercise/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/React-Node-Internship-Exercise/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-Node-Internship-Exercise/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.07cf15ac.chunk.js.LICENSE.txt": "/React-Node-Internship-Exercise/static/js/2.07cf15ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b681f44.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.07cf15ac.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a62dc4d0.chunk.js"
+  ]
+}
